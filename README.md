@@ -1,13 +1,13 @@
 <h1>Reza Aditia N</h1>
 <p>
-  🏆 Top Rated Freelancer &nbsp;|&nbsp; 💻 Full Stack Web Developer &nbsp;|&nbsp; 🚀 7+ Years Experience &nbsp;|&nbsp; 🧠 150+ Projects Delivered
+  🏆 Top Rated Freelancer &nbsp;|&nbsp; 💻 Full Stack Web Developer &nbsp;|&nbsp; 🚀 5+ Years Experience &nbsp;
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate full stack developer with 7+ years of experience crafting scalable and maintainable web applications. I enjoy solving real-world problems through clean code, robust architecture, and intuitive UI/UX.
+I'm a passionate full stack developer with 5+ years of experience crafting scalable and maintainable web applications. I enjoy solving real-world problems through clean code, robust architecture, and intuitive UI/UX.
 
 I thrive in fast-paced, collaborative environments where innovation and user value come first. Strong communication and reliable delivery are my core values.
 
