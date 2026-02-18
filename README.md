@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full stack developer with 6+ years of experience crafting scalable and maintainable web applications. I enjoy solving real-world problems through clean code, robust architecture, and intuitive UI/UX.
+I'm a passionate full stack developer with 7+ years of experience crafting scalable and maintainable web applications. I enjoy solving real-world problems through clean code, robust architecture, and intuitive UI/UX.
 
 I thrive in fast-paced, collaborative environments where innovation and user value come first. Strong communication and reliable delivery are my core values.
 
